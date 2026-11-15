@@ -1,0 +1,2 @@
+ Python 3.12 Standard Library Only
+Standard modules: time, random, copy, collections, sys
